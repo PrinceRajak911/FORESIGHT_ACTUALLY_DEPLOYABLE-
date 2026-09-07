@@ -1,0 +1,13 @@
+{
+  "raw_sales_rows": 85220,
+  "raw_sku_rows": 150,
+  "raw_calendar_rows": 731,
+  "raw_inventory_rows": 3900,
+  "duplicate_sales_rows_removed": 254,
+  "clean_sales_rows": 84966,
+  "clean_sku_rows": 150,
+  "clean_calendar_rows": 731,
+  "clean_inventory_rows": 3900,
+  "sales_missing_price_after_clean": 0,
+  "inventory_missing_values_after_clean": 0
+}

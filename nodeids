@@ -1,0 +1,4 @@
+[
+  "tests/test_core.py::test_bias_sign",
+  "tests/test_core.py::test_wape_zero_error"
+]

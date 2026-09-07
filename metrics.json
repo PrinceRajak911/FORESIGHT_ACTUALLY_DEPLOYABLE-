@@ -1,0 +1,9 @@
+{
+  "ml_wape": 0.24494995563562633,
+  "baseline_wape": 0.21565148191164452,
+  "ml_bias": 13.464109672538063,
+  "baseline_bias": 3.6647157190635453,
+  "test_weeks": 8,
+  "test_rows": 1196,
+  "selected_model": "seasonal_naive"
+}

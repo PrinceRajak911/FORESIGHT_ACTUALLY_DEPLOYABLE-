@@ -1,0 +1,16 @@
+{
+  "deployment_ready": true,
+  "pipeline_tested": true,
+  "python_target": "3.12",
+  "dashboard_command": "streamlit run app/streamlit_app.py",
+  "api_command": "uvicorn service.api:app --host 0.0.0.0 --port 8000",
+  "pipeline_result": {
+    "selected_model": "seasonal_naive",
+    "baseline_wape": 0.21565148191164452,
+    "model_wape": 0.24494995563562633,
+    "high_stockout_skus": 31,
+    "high_overstock_skus": 24,
+    "capital_locked": 58972739.82,
+    "revenue_at_risk": 9966591.260000002
+  }
+}
